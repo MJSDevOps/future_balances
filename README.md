@@ -1,22 +1,22 @@
-- - # Financial Forecasting Script
+- - # Future Balances
 
     A Python-powered financial forecasting tool crafted for freelancers, this application offers a fresh approach to short-term financial planning. Unlike traditional budgeting apps that rely on past spending habits, this tool focuses on future projections by allowing users to input anticipated income and planned expenses.
 
     ## Key Features
-    - Effortless Transaction Tracking: Log and categorize income and expenses in just a few clicks.
-    - CSV Export: Save transaction histories in CSV format for deeper analysis or record-keeping.
-    - Short-Term Balance Projections: Plan ahead by forecasting your account balance based on expected financial activity.
+    - **Effortless Transaction Tracking:** Log and categorize income and expenses in just a few clicks.
+    - **CSV Export:** Save transaction histories in CSV format for deeper analysis or record-keeping.
+    - **Short-Term Balance Projections:** Plan ahead by forecasting your account balance based on expected financial activity.
       
     ## Benefits
-    - Plan with Precision: Gain insights into your future financial standing, helping you make smarter decisions about saving and spending.
-    - Tailored for Freelancers: With variable income being a common challenge, this tool provides more accurate short-term financial insights, enabling better decision-making around spending, saving, or increasing income.
-    - Less Reliable over Time: While projections naturally become less accurate the further they extend, you can mitigate this by:
+    - **Plan with Precision:** Gain insights into your future financial standing, helping you make smarter decisions about saving and spending.
+    - **Tailored for Freelancers:** With variable income being a common challenge, this tool provides more accurate short-term financial insights, enabling better decision-making around spending, saving, or increasing income.
+    - **Less Reliable over Time:** While projections naturally become less accurate the further they extend, you can mitigate this by:
       - Treating savings contributions as planned expenses to buffer against unexpected costs.
       - Adopting conservative income estimates, reducing reliance on overly optimistic predictions for long-term planning.
-    - Intuitive and Accessible: The user-friendly CLI ensures anyone can streamline their financial planning without hassle.
-    - A Learning Experience for Python Enthusiasts: As one of my first practicle Python projects, this tool is designed to be educational.
-      - Every section of the code is thoroughly explained, making it easy for other beginners to learn and customize.
-      - It’s an ideal project for anyone looking to explore practical Python applications that adapt to real-world data changes.
+    - **Intuitive and Accessible:** The user-friendly CLI ensures anyone can streamline their financial planning without hassle.
+    - **A Learning Experience for Beginner Python Students:** As one of my first practicle Python projects, this tool is designed to be educational.
+          - Every section of the code is thoroughly explained, making it easy for other beginners to learn and customize.
+          - It’s an ideal project for anyone looking to explore practical Python applications that adapt to real-world data changes.
         
 
     ## Features
